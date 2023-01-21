@@ -4,6 +4,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family= Passion+One & display = swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital@1&display=swap');
 
 
 * {  
@@ -47,7 +48,7 @@ section {
     padding-bottom: 10vh;
     padding-left: 30px;
     line-height: 2em;
-    font-family:'Courgette', 'cursive'; 
+    font-family: 'Noto Sans', sans-serif;
     font-size: 4vw;
 }
 
